@@ -1,0 +1,10 @@
+tabulate
+dotenv
+openai
+langchain
+langchain_experimental
+panda
+streamlit
+matplotlib
+uvicorn
+fastapi
